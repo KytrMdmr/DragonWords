@@ -1,0 +1,7 @@
+SpeechRecognition
+sounddevice
+numpy
+scipy
+keyboard
+pyperclip
+pyautogui
